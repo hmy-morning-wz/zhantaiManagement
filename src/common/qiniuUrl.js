@@ -1,0 +1,1 @@
+export const QiniuUrl="http://p6e7vhrci.bkt.clouddn.com/"

@@ -1,0 +1,24 @@
+:global{
+  .header-right{
+    text-align: right;
+    margin-bottom: 15px;
+  }
+  .form-center > div{
+    width:100% !important;
+  }
+  .modalForms{
+    width: 400px !important;
+  }
+  .nav-menu-list{
+    list-style: none;
+    padding: 0;
+    > li {
+      text-align: center;
+      width: 50px;
+      float: right;
+    }
+  }
+  .breadCrumb-wrap{
+    margin-bottom: 20px;
+  }
+}
